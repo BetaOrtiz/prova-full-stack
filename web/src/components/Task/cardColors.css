@@ -1,0 +1,47 @@
+.trabalho {
+  background-color: #dddaec;
+}
+.trabalhoTitle {
+  background-color: #4124c0;
+  padding: 0.5rem;
+}
+
+.pessoal {
+  background-color: #ffe6f1;
+}
+.pessoalTitle {
+  background-color: #fe0472;
+  padding: 0.5rem;
+}
+
+.estudos {
+  background-color: #eef4e6;
+}
+.estudosTitle {
+  background-color: #7de700;
+  padding: 0.5rem;
+}
+
+.saúde {
+  background-color: #f4f2e1;
+}
+.saúdeTitle {
+  background-color: #ffc100;
+  padding: 0.5rem;
+}
+
+.finanças {
+  background-color: #fbebff;
+}
+.finançasTitle {
+  background-color: #c600dc;
+  padding: 0.5rem;
+}
+
+.outros {
+  background-color: #ffede7;
+}
+.outrosTitle {
+  background-color: #ff3e00;
+  padding: 0.5rem;
+}

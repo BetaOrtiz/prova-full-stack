@@ -1,0 +1,56 @@
+label {
+  color: #666;
+  margin: 5px;
+  font-family: 'Roboto', sans-serif;
+  font-weight: 300;
+}
+
+form input,
+select {
+  background-color: #fff;
+  border: solid 1px #dcdcdc;
+  width: 300px;
+  height: 30px;
+  padding: 0 15px;
+  font-size: 0.8rem;
+  border-radius: 5px;
+  color: grey;
+  font-family: 'Roboto', sans-serif;
+  font-size: 14px;
+}
+
+form textarea {
+  background-color: #fff;
+  border: solid 1px #dcdcdc;
+  width: 300px;
+  height: 150px;
+  padding: 15px 15px;
+  font-size: 0.8rem;
+  border-radius: 5px;
+  color: #000;
+  font-family: 'Roboto', sans-serif;
+  font-size: 14px;
+}
+
+form button {
+  cursor: pointer;
+  margin-left: 10px;
+  margin-bottom: 10px;
+}
+
+form input::placeholder {
+  color: rgba(255, 255, 255, 0.5);
+}
+
+form input:focus,
+form textarea:focus,
+form select:focus,
+form button:focus {
+  outline: none;
+}
+
+.field {
+  display: flex;
+  flex-direction: column;
+  margin: 10px;
+}
